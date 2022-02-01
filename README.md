@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AdetaiwoMannux
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning an Arts related subject
-- 💞️ I’m looking to collaborate on some kind of smartwatch-controlled C & C server for payloads(that'd be later)
-- 📫 How to reach me ...
+- 💞️and python and HTML and CSS and js (muh babay)
 
 <!---
 AdetaiwoMannux/AdetaiwoMannux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
