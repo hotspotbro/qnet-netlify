@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdetaiwoMannux
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...taking courses and doing various Freelance Jobs
 - 🌱 I’m currently learning an Arts related subject
 - 💞️and python and HTML and CSS and js (muh babay)
 
